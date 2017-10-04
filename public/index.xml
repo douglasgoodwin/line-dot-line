@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>line-dot-line</title>
+    <link>http://www.linedotline.studio/</link>
+    <description>Recent content on line-dot-line</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="http://www.linedotline.studio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>She Look Good, 2013</title>
+      <link>http://www.linedotline.studio/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>http://www.linedotline.studio/portfolio/work2/</guid>
+      <description>&lt;p&gt;She Look Good challenges the singular masculine heroic image of the fisherman.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Out Board</title>
+      <link>http://www.linedotline.studio/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>http://www.linedotline.studio/portfolio/work3/</guid>
+      <description>&lt;p&gt;16mm/video, 5 minutes 2016
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Target Practice</title>
+      <link>http://www.linedotline.studio/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>http://www.linedotline.studio/portfolio/work4/</guid>
+      <description>video, sound, 5 minutes 2015</description>
+    </item>
+    
+    <item>
+      <title>Pasadena Whamming</title>
+      <link>http://www.linedotline.studio/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>http://www.linedotline.studio/portfolio/work5/</guid>
+      <description>video, sound, 7 minutes 2010</description>
+    </item>
+    
+    <item>
+      <title>Opportunity Lilac</title>
+      <link>http://www.linedotline.studio/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>http://www.linedotline.studio/portfolio/work6/</guid>
+      <description>16mm/video, color, sound, 7 minutes 2006</description>
+    </item>
+    
+    <item>
+      <title>This Place, video</title>
+      <link>http://www.linedotline.studio/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>http://www.linedotline.studio/portfolio/work7/</guid>
+      <description>sound, 4 minutes 2005</description>
+    </item>
+    
+    <item>
+      <title>Me As My Ancestors</title>
+      <link>http://www.linedotline.studio/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>http://www.linedotline.studio/portfolio/work8/</guid>
+      <description>super 8, color, silent, 2 minutes 2004</description>
+    </item>
+    
+  </channel>
+</rss>
